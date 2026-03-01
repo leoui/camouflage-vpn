@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-2.0.0-blue?style=flat-square)
+![Version](https://img.shields.io/badge/version-2.1-blue?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-2.5%2B-orange?style=flat-square)
 ![Easy-RSA](https://img.shields.io/badge/Easy--RSA-3.2.5-purple?style=flat-square)
