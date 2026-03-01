@@ -31,7 +31,7 @@
 #   - Session timeout opsional
 #
 
-CAMOUFLAGE_VERSION="2.0.0"
+CAMOUFLAGE_VERSION="2.1.0"
 CAMOUFLAGE_DATE="2026"
 
 # =====================================================================
