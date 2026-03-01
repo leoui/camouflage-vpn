@@ -1,0 +1,6 @@
+*.ovpn
+*.key
+*.crt
+*.pem
+*.tgz
+.DS_Store
